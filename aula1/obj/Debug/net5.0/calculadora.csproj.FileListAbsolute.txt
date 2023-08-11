@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\calculadora.exe
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\calculadora.dll
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\ref\calculadora.dll
+C:\Users\lenovo\Desktop\aula1\aula1\bin\Debug\net5.0\calculadora.pdb
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.dll
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\ref\calculadora.dll
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.pdb
+C:\Users\lenovo\Desktop\aula1\aula1\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
